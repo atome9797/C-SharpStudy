@@ -7,10 +7,16 @@
 
   <ItemGroup>
     <Compile Remove="Program.cs" />
+    <Compile Remove="TestClass1.cs" />
+    <Compile Remove="TestClass2.cs" />
+    <Compile Remove="TestClass3.cs" />
   </ItemGroup>
 
   <ItemGroup>
     <None Include="Program.cs" />
+    <None Include="TestClass1.cs" />
+    <None Include="TestClass2.cs" />
+    <None Include="TestClass3.cs" />
   </ItemGroup>
 
 </Project>
