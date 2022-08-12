@@ -10,6 +10,8 @@
     <Compile Remove="TestClass1.cs" />
     <Compile Remove="TestClass2.cs" />
     <Compile Remove="TestClass3.cs" />
+    <Compile Remove="TestClass4.cs" />
+    <Compile Remove="TestClass5.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -17,6 +19,8 @@
     <None Include="TestClass1.cs" />
     <None Include="TestClass2.cs" />
     <None Include="TestClass3.cs" />
+    <None Include="TestClass4.cs" />
+    <None Include="TestClass5.cs" />
   </ItemGroup>
 
 </Project>
